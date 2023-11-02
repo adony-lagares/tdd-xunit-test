@@ -1,0 +1,14 @@
+C:\Users\mikec\OneDrive\Videos\Desktop\Dio.me\.NET Developer\Testes\ProjetoTDD\ProjetoTDD\bin\Debug\net6.0\ProjetoTDD.exe
+C:\Users\mikec\OneDrive\Videos\Desktop\Dio.me\.NET Developer\Testes\ProjetoTDD\ProjetoTDD\bin\Debug\net6.0\ProjetoTDD.deps.json
+C:\Users\mikec\OneDrive\Videos\Desktop\Dio.me\.NET Developer\Testes\ProjetoTDD\ProjetoTDD\bin\Debug\net6.0\ProjetoTDD.runtimeconfig.json
+C:\Users\mikec\OneDrive\Videos\Desktop\Dio.me\.NET Developer\Testes\ProjetoTDD\ProjetoTDD\bin\Debug\net6.0\ProjetoTDD.dll
+C:\Users\mikec\OneDrive\Videos\Desktop\Dio.me\.NET Developer\Testes\ProjetoTDD\ProjetoTDD\bin\Debug\net6.0\ProjetoTDD.pdb
+C:\Users\mikec\OneDrive\Videos\Desktop\Dio.me\.NET Developer\Testes\ProjetoTDD\ProjetoTDD\obj\Debug\net6.0\ProjetoTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikec\OneDrive\Videos\Desktop\Dio.me\.NET Developer\Testes\ProjetoTDD\ProjetoTDD\obj\Debug\net6.0\ProjetoTDD.AssemblyInfoInputs.cache
+C:\Users\mikec\OneDrive\Videos\Desktop\Dio.me\.NET Developer\Testes\ProjetoTDD\ProjetoTDD\obj\Debug\net6.0\ProjetoTDD.AssemblyInfo.cs
+C:\Users\mikec\OneDrive\Videos\Desktop\Dio.me\.NET Developer\Testes\ProjetoTDD\ProjetoTDD\obj\Debug\net6.0\ProjetoTDD.csproj.CoreCompileInputs.cache
+C:\Users\mikec\OneDrive\Videos\Desktop\Dio.me\.NET Developer\Testes\ProjetoTDD\ProjetoTDD\obj\Debug\net6.0\ProjetoTDD.dll
+C:\Users\mikec\OneDrive\Videos\Desktop\Dio.me\.NET Developer\Testes\ProjetoTDD\ProjetoTDD\obj\Debug\net6.0\refint\ProjetoTDD.dll
+C:\Users\mikec\OneDrive\Videos\Desktop\Dio.me\.NET Developer\Testes\ProjetoTDD\ProjetoTDD\obj\Debug\net6.0\ProjetoTDD.pdb
+C:\Users\mikec\OneDrive\Videos\Desktop\Dio.me\.NET Developer\Testes\ProjetoTDD\ProjetoTDD\obj\Debug\net6.0\ProjetoTDD.genruntimeconfig.cache
+C:\Users\mikec\OneDrive\Videos\Desktop\Dio.me\.NET Developer\Testes\ProjetoTDD\ProjetoTDD\obj\Debug\net6.0\ref\ProjetoTDD.dll
